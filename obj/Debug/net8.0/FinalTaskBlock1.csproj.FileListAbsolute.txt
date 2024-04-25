@@ -1,0 +1,15 @@
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/obj/Debug/net8.0/FinalTaskBlock1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/obj/Debug/net8.0/FinalTaskBlock1.AssemblyInfoInputs.cache
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/obj/Debug/net8.0/FinalTaskBlock1.AssemblyInfo.cs
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/obj/Debug/net8.0/FinalTaskBlock1.csproj.CoreCompileInputs.cache
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/obj/Debug/net8.0/FinalTaskBlock1.sourcelink.json
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/bin/Debug/net8.0/FinalTaskBlock1
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/bin/Debug/net8.0/FinalTaskBlock1.deps.json
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/bin/Debug/net8.0/FinalTaskBlock1.runtimeconfig.json
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/bin/Debug/net8.0/FinalTaskBlock1.dll
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/bin/Debug/net8.0/FinalTaskBlock1.pdb
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/obj/Debug/net8.0/FinalTaskBlock1.dll
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/obj/Debug/net8.0/refint/FinalTaskBlock1.dll
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/obj/Debug/net8.0/FinalTaskBlock1.pdb
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/obj/Debug/net8.0/FinalTaskBlock1.genruntimeconfig.cache
+/Users/yuri/Desktop/CSHARP/FinalTaskBlock1/obj/Debug/net8.0/ref/FinalTaskBlock1.dll
